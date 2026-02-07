@@ -1,5 +1,5 @@
 # Base58编码解码工具
-## 基于 Gemini 3 Pro开发的Base58编码解码工具，项目在继续开发中…
+## 基于 Gemini 3 Pro开发的Base58编码解码工具，项目在持续开发中…
 
 <p align="center">
   <img src="./zxlwq.webp" alt="Site" />
